@@ -9,7 +9,7 @@
   },
   "functions": [
     {
-      "source": "functions",
+      "source": "backend",
       "codebase": "default",
       "ignore": [
         "node_modules",
@@ -19,5 +19,9 @@
         "*.local"
       ]
     }
-  ]
+  ],
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
 }
