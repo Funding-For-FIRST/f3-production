@@ -128,3 +128,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+#stuff we added not from the node template
+test-client/package-lock.json
+test-client/package-lock.json
+test-client/package-lock.json
+test-client/package.json
+test-functions/package-lock.json
+test-functions/package.json
+node_modules
+package-lock.json
+package.json
+.firebase
